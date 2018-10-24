@@ -324,11 +324,12 @@ input {
 }
 
 .red-btn {
-    background: #09f;
+    margin-top: 10px;
+    background: #f20000;
     display: inline-block;
     text-align: center;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .red-btn:hover {
@@ -937,7 +938,7 @@ footer:-ms-input-placeholder {
 }
 
 .red-btn-0 {
-    padding: 29px 49px;
+    padding: 10px 10px;
     margin-top: 5px;
 }
 
@@ -1660,11 +1661,11 @@ a.white:active {
 
     /* ==========  Slider  ========= */
     .gb-middle {
-        height: 600px;
+        height: 800px;
     }
 
     .slider-info h2 {
-        font-size: 63px;
+        font-size: 50px;
         margin-left: 0;
     }
 
